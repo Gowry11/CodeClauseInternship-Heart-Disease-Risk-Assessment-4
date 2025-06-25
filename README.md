@@ -1,6 +1,6 @@
 # CodeClauseInternship-Heart-Disease-Risk-Assessment
 
-A golden-level data science project for assessing heart disease risk using machine learning and an interactive user interface. Built with Streamlit and scikit-learn as part of the **CodeClause Data Science Internship**.
+A golden-level data science project for assessing heart disease risk using machine learning and an interactive user interface. Built with Streamlit and scikit-learn as part of the **CodeClause Data Science Internship**.  
 Project ID - #CC69846
 
 ## What This Project Does
