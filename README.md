@@ -67,7 +67,3 @@ streamlit run app.py
 
 ## Demo Video
 videoooooooooooooooooooo
-
-## Developed By
-Gowry P P
-As part of the CodeClause Data Science Internship (Golden Level Project)
