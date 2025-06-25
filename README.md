@@ -43,5 +43,5 @@ A golden-level data science project for assessing heart disease risk using machi
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/CodeClauseInternship-Heart-Disease-Risk-Assessment.git
+git clone https://github.com/your-username/CodeClauseInternship-Heart-Disease-Risk-Assessment-4-.git
 cd CodeClauseInternship-Heart-Disease-Risk-Assessment
