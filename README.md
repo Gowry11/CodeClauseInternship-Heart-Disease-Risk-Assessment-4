@@ -66,7 +66,7 @@ streamlit run app.py
 ```
 
 ## Demo Video
-videoooooooooooooooooooo
+🎥 [Include your LinkedIn video demo link here when ready]
 
 ## Developed By  
 Gowry P P
