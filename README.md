@@ -41,7 +41,33 @@ A golden-level data science project for assessing heart disease risk using machi
 ## How to Run This Project
 
 ### 1. Clone the Repository
-
 ```bash
 git clone https://github.com/your-username/CodeClauseInternship-Heart-Disease-Risk-Assessment-4-.git
 cd CodeClauseInternship-Heart-Disease-Risk-Assessment
+```
+### 2. Clone the RepositoryCreate a Virtual Environment
+```bash
+python -m venv venv
+venv\Scripts\activate  # On Windows
+# OR
+source venv/bin/activate  # On macOS/Linux
+```
+### 3. Install Requirements
+```bash
+pip install -r requirements.txt
+```
+### 4. Train the Model
+```bash
+python model_training.py
+```
+### 5. Run the Streamlit App
+```bash
+streamlit run app.py
+```
+
+## Demo Video
+videoooooooooooooooooooo
+
+## Developed By
+Gowry P P
+As part of the CodeClause Data Science Internship (Golden Level Project)
