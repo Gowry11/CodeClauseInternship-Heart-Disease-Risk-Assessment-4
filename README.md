@@ -42,10 +42,10 @@ A golden-level data science project for assessing heart disease risk using machi
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/CodeClauseInternship-Heart-Disease-Risk-Assessment-4-.git
+git clone https://github.com/Gowry11/CodeClauseInternship-Heart-Disease-Risk-Assessment-4-.git
 cd CodeClauseInternship-Heart-Disease-Risk-Assessment
 ```
-### 2. Clone the RepositoryCreate a Virtual Environment
+### 2. Create a Virtual Environment
 ```bash
 python -m venv venv
 venv\Scripts\activate  # On Windows
